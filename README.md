@@ -1,6 +1,6 @@
 # p5DynamicLoadScript
 
-動的にJavascriptファイルをロードするサンプルです。
+p5.js の preloadメソッドを独自に作り、動的にJavascriptファイルをロードするサンプルです。
 
 ## dynamicLoadScript.js
 
