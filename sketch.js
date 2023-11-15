@@ -8,7 +8,7 @@ let fishImage;
 let floorGroup;
 const _scriptPathArr = [
   './js/Pico.js',  // Spriteを継承
-  './js/Pico2.js', // Picoを継承して speakメソッドをOverride
+  './js/Pico2.js', // Picoを継承
   './js/Pico3.js', // Pico2を継承
   './js/Pico4.js', // Pico3を継承
 ];
