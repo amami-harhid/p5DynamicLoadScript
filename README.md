@@ -40,13 +40,6 @@ const sketch = function( p ) {
 ### 単独パスで利用（１つだけロードする）
 
 ```
-const _scriptPathArr = [
-  './js/Pico.js',
-  './js/Pico2.js',
-  './js/Pico3.js',
-  './js/Pico4.js',
-];
-
 const sketch = function( p ) {
 　p.preload = function(){
     p.dynamicLoadScript('./js/Pico.js');
